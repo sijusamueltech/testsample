@@ -1,12 +1,3 @@
-   36  ls
-   37  rm -r -f node_modules/
-   38  ./node_modules/webpack/bin/webpack.js
-   39  cd ../
-   40  ./node_modules/webpack/bin/webpack.js 
-   41  cd M_ongoAnalysis_02
-   42  dir
-   43  ks
-   44  ls
    45  ./node_modules/webpack/bin/webpack.js 
    46  ls
    47  vi package.json 
@@ -498,3 +489,12 @@
   533  git push -u origin master
   534  git status
   535  history >outhistory
+  536  git push
+  537  git status
+  538  git ad  .
+  539  git add  .
+  540  git commit  -m 'outhistory again..  but readme added in origin'
+  541  git push  
+  542  git pull
+  543  git push  
+  544  history >outhistory
