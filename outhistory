@@ -1,3 +1,473 @@
+   36  ls
+   37  rm -r -f node_modules/
+   38  ./node_modules/webpack/bin/webpack.js
+   39  cd ../
+   40  ./node_modules/webpack/bin/webpack.js 
+   41  cd M_ongoAnalysis_02
+   42  dir
+   43  ks
+   44  ls
+   45  ./node_modules/webpack/bin/webpack.js 
+   46  ls
+   47  vi package.json 
+   48  ls
+   49  vi package.json 
+   50  ls
+   51  ./node_modules/webpack/bin/webpack.js 
+   52  ls
+   53  grep M_ongo  * - r
+   54  ls
+   55  cd ../
+   56  cd M_ongoAnalysis
+   57  ./node_modules/webpack/bin/webpack.js 
+   58  npm install 
+   59  ./node_modules/webpack/bin/webpack.js 
+   60  cd node_modules/
+   61  cd ../
+   62  npm uninstall webpack
+   63  npm install 
+   64  ./node_modules/webpack/bin/webpack.js 
+   65  node server.js 
+   66  cd ..
+   67  cd M_ongoAnalysis_02
+   68  ls
+   69  vi server.js 
+   70  ls
+   71  vi package.json 
+   72  vi package.json 
+   73  npm install 
+   74  npm run server:dev
+   75  vi package.json 
+   76  ./node_modules/webpack/bin/webpack.js 
+   77  npm run server:dev
+   78  lls
+   79  ./node_modules/webpack/bin/webpack.js 
+   80  npm run server:dev
+   81  cd  ../
+   82  ls
+   83  vi ucd M_ongoAnalysis
+   84  cd M_ongoAnalysis
+   85  ls
+   86  node server.js 
+   87  ls
+   88  touch src/server.iso.js
+   89  vi  src/server.iso.js
+   90  ./node_modules/webpack/bin/webpack.js 
+   91  l
+   92  node server.js
+   93  node server.js
+   94  node server.js
+   95  ./node_modules/webpack/bin/webpack.js 
+   96  ./node_modules/webpack/bin/webpack.js 
+   97  ./node_modules/webpack/bin/webpack.js 
+   98  ./node_modules/webpack/bin/webpack.js 
+   99  clear
+  100  ./node_modules/webpack/bin/webpack.js 
+  101  ./node_modules/webpack/bin/webpack.js 
+  102  ./node_modules/webpack/bin/webpack.js 
+  103  ./node_modules/webpack/bin/webpack.js 
+  104  ./node_modules/webpack/bin/webpack.js 
+  105  ./node_modules/webpack/bin/webpack.js 
+  106  ./node_modules/webpack/bin/webpack.js 
+  107  ./node_modules/webpack/bin/webpack.js 
+  108  ./node_modules/webpack/bin/webpack.js 
+  109  ./node_modules/webpack/bin/webpack.js 
+  110  ./node_modules/webpack/bin/webpack.js 
+  111  ./node_modules/webpack/bin/webpack.js 
+  112  ./node_modules/webpack/bin/webpack.js 
+  113  ./node_modules/webpack/bin/webpack.js 
+  114  npm install save-dev  babel-preset-stage-0
+  115  npm install --save-dev  babel-preset-stage-0
+  116  ./node_modules/webpack/bin/webpack.js 
+  117  vi package.json 
+  118  vi package.json 
+  119  ./node_modules/webpack/bin/webpack.js 
+  120  vi package.json 
+  121  npm build:dev
+  122  npm run build:dev
+  123  cd ..l
+  124  ls
+  125  cd ..
+  126  mkdir Z1_ongoAnalysis/
+  127  exit
+  128  dic
+  129  grunt
+  130  exit
+  131  ls
+  132  pwd
+  133  dic
+  134  ls
+  135  st AAPL
+  136  vi .bashrc
+  137  xcsd
+  138  cd
+  139  vi .bashrc
+  140  vi .bashrc
+  141  vi .bashrc
+  142  ls
+  143  "sear
+  144  vi .bashrc
+  145  vi x
+  146  vi x
+  147  ls -al /.bashrc
+  148  pwd
+  149  ls
+  150  ls .bashrc
+  151  ls .bashrc -al
+  152  chmod  755 /.bashrc
+  153  ls   /.bashrc
+  154  pwd
+  155  ls -al
+  156  ls -al .bashrc
+  157  chmod 755  .bashrc
+  158  vi .bashrc
+  159  vi .bashrc
+  160  daddddddd
+  161  ls
+  162  clear
+  163  vi .bashrc
+  164  vim  .bashrc
+  165  source .bashrc
+  166  st AAPL
+  167  st FB
+  168  st msft
+  169  st  edit
+  170  st ntla
+  171  clear
+  172  ls
+  173  pwd
+  174  st X
+  175  clear
+  176  pwd
+  177  ls
+  178  exit
+  179  exit
+  180  vi .bashrc
+  181  cd
+  182  vi .bashrc
+  183  ;
+  184  exit
+  185  ls
+  186  pwd
+  187  ls
+  188  hr
+  189  vi .bashrc
+  190  ls -a
+  191  clear
+  192  pwd
+  193  st AAPL
+  194  st FB
+  195  clear
+  196  ls
+  197  ls
+  198  rh
+  199  r
+  200  hr
+  201  clear
+  202  dic
+  203  ls
+  204  vi package.json 
+  205  vi package.json 
+  206  vi package.json 
+  207  hr
+  208  hr
+  209  clear
+  210  sl
+  211  ls
+  212  pwd
+  213  cls
+  214  cleafr
+  215  clear
+  216  eixt
+  217  exit
+  218  ls
+  219  vi z
+  220  hr
+  221  dic
+  222  cd .././../
+  223  cd ../../
+  224  cd ../../
+  225  cd TECHREF/
+  226  ls
+  227  mkdir SHELLSCRIPT
+  228  cd SHELLSCRIPT/
+  229  vi ../../.bashrc 
+  230  scp siju@192.168.60.191:/home/siju/SHELLSCRIPT/stk.sh ./
+  231  ls
+  232  scp siju@192.168.60.191:/home/siju/SHELLSCRIPT/stk.sh ./
+  233  pwd
+  234  vi stk.sh 
+  235  pwd
+  236  vi stk.sh 
+  237  bash ./stk.sh 
+  238  vi 20170510_0856 
+  239  c
+  240  pwd
+  241  cd
+  242  vi .bashrc 
+  243  source .bashrc
+  244  stk
+  245  ls
+  246  vi .bashrc 
+  247  cat .bashrc 
+  248  cd /c/Users/ssamuel/TECHREF/SHELLSCRIPT/
+  249  ls
+  250  vi 20170510_0859
+  251  vi stk.sh 
+  252  cd
+  253  stk
+  254  vi .bashrc
+  255  source .bashrc
+  256  std
+  257  ls
+  258  rm 20170510_0859
+  259  mkdir bkup
+  260  cp stk.sh bkup/
+  261  cp stk.sh bkup/stk.sh_20170510_0906
+  262  ls
+  263  vi 20170510_0903 
+  264  exit
+  265  hr
+  266  hr
+  267  hr
+  268  hr
+  269  clear
+  270  dic
+  271  cd ../
+  272  ls
+  273  cd ..
+  274  ls
+  275  cd DIClient_05012017
+  276  ;s
+  277  ls
+  278  cd trunk/
+  279  ls
+  280  cd DIClient_05012017
+  281  cd src/
+  282  grep integrate * 
+  283  grep -r  integrate * 
+  284  grep -r  integrate * 
+  285  hr
+  286  ls
+  287  cd
+  288  tech
+  289  t
+  290  cd
+  291  vi .bashrc
+  292  ls
+  293  ls
+  294  clear
+  295  cd
+  296  ls
+  297  cp .bashrc   bashrc_05102017 
+  298  exit
+  299  ls
+  300  dic
+  301  ls
+  302  st msft
+  303  rsync
+  304  st aapl
+  305  st aapl
+  306  stk
+  307  stvi
+  308  stcat
+  309  ls
+  310  pwd
+  311  clear
+  312  st aapl
+  313  st googl
+  314  st  msft
+  315  clear
+  316  dic
+  317  ls
+  318  cd ../
+  319  ls
+  320  pwd
+  321  st msft
+  322  st aapl
+  323  st googl
+  324  st x
+  325  st acm
+  326  st  vlo
+  327  st  hal
+  328  st  intc
+  329  st  cisco
+  330  st  csco
+  331  st  fb
+  332  clear
+  333  dic
+  334  cd src
+  335  grep -i -r reportExporter  *
+  336  grep -i -r reportExporter  *  -l
+  337  grep -i -r reportExport  *  -l
+  338  hr
+  339  stak
+  340  stk
+  341  stcat
+  342  ls
+  343  std
+  344  vi stk.sh 
+  345  cd
+  346  stcat
+  347  st googl
+  348  stk
+  349  ls
+  350  std
+  351  vi stk.sh 
+  352  stk 
+  353  stcat
+  354  clear
+  355  hr
+  356  clear
+  357  pwd
+  358  st cisco
+  359  st csco
+  360  st wmt
+  361  st aapl
+  362  st fb
+  363  st googl
+  364  st msft
+  365  ls
+  366  vi out 
+  367  stk
+  368  python
+  369  st ntnx
+  370  st aapl
+  371  clear
+  372  ls
+  373  cd 
+  374  vi .bashrc
+  375  ls
+  376  ls -
+  377  ls -al
+  378  wpd
+  379  clear
+  380  pwd
+  381  clear
+  382  pwd
+  383  ls
+  384  vi c
+  385  vi x
+  386  vi www/
+  387  ls
+  388  vi NTUSER.DAT{72f22c84-86f3-11e6-b09a-87654f90b4bc}.TxR.0.regtrans-ms
+  389  ls
+  390  ls
+  391  stk
+  392  stcat
+  393  ls -al
+  394  clear
+  395  sl -al
+  396  ls -al
+  397  pwd
+  398  wpd
+  399  ls -l
+  400  pwd
+  401  stk
+  402  sth AAPL
+  403  sth fb
+  404  sth FB
+  405  sth WMT
+  406  clear
+  407  exit
+  408  exit
+  409  ls
+  410  ls
+  411  exit
+  412  cd
+  413  pwd
+  414  vi .bashrc 
+  415  ifconfig
+  416  ipconfig
+  417  cmd
+  418  ip addr
+  419  stk
+  420  stcat
+  421  clear
+  422  hr
+  423  hr
+  424  hr
+  425  stk
+  426  stact 
+  427  stcat 
+  428  stk
+  429  stcat
+  430  hr
+  431  stcat
+  432  clear
+  433  pwd
+  434  cd
+  435  ls
+  436  cd X
+  437  ls
+  438  mkdir XX
+  439  cd XX
+  440  wget
+  441  exit
+  442  stk
+  443  stcat
+  444  cls
+  445  clear
+  446  pythton
+  447  python
+  448  exit
+  449  hr
+  450  clear
+  451  stk
+  452  stact
+  453  stcat
+  454  exit
+  455  stk
+  456  hr
+  457  stcat
+  458  stcat
+  459  clear
+  460  sth NVDA
+  461  st x
+  462  sth x
+  463  sth X
+  464  y="HELLO"
+  465  val=$y| tr '[:upper:]' '[:lower:]'
+  466  echo $val
+  467  echo val
+  468  echo $y
+  469  echo $val
+  470  echo $y
+  471  x=${y,,}
+  472  echo $x
+  473  z=${x^^}
+  474  echo $z
+  475  val=$(echo "$y"| tr '[:upper:]' '[:lower:]')
+  476  echo $val
+  477  exit
+  478  hr
+  479  hr
+  480  stcat
+  481  node
+  482  sth HAL
+  483  clear
+  484  clear
+  485  stk
+  486  stcat
+  487  node
+  488  std
+  489  ls
+  490  bash cps.sh
+  491  dic
+  492  cd  ..
+  493  ls
+  494  stcat
+  495  stx
+  496  stk
+  497  stcat
+  498  stcat
+  499  stk
+  500  stcat
+  501  cd 
+  502  cd GIT
+  503  cd sampleproj/
+  504  ls
+  505  ls
   506  git checkout colors
   507  git checkout color
   508  ls
@@ -6,3 +476,25 @@
   511  history
   512  history >outhostory
   513  history >outhistory
+  514  rm outhostory 
+  515  git status
+  516  git add .
+  517  git status
+  518  git commit  -m ' add history file'
+  519  vi outhistory 
+  520  git checkout master
+  521  git merge login
+  522  git merge color
+  523  ls
+  524  git remote
+  525  vi outhistory 
+  526  git add .
+  527  git commit  -m ' add history file'
+  528  git status
+  529  git remote add origin https://github.com/sijusamueltech/testsample.git
+  530  git remote
+  531  git push -u origin master
+  532  git push -u origin master
+  533  git push -u origin master
+  534  git status
+  535  history >outhistory
